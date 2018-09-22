@@ -1,0 +1,145 @@
+ADA:
+  cmc_name: Cardano
+  subreddits:
+  - Cardano
+BCH:
+  cmc_name: Bitcoin-Cash
+  subreddits:
+  - BitcoinCash
+  - bch
+BNB:
+  cmc_name: binance-coin
+  subreddits:
+  - binanceexchange
+BTC:
+  cmc_name: Bitcoin
+  subreddits:
+  - Bitcoin
+  - btc
+  - BTCNews
+BTG:
+  cmc_name: bitcoin-gold
+  subreddits:
+  - bitcoingoldhq
+BTM:
+  cmc_name: bytom
+  subreddits:
+  - bytomblockchain
+  - bytomchain
+DASH:
+  cmc_name: dash
+  subreddits:
+  - dashpay
+EOS:
+  cmc_name: EOS
+  subreddits:
+  - EOS
+ETC:
+  cmc_name: ethereum-classic
+  subreddits:
+  - ethereumclassic
+ETH:
+  cmc_name: Ethereum
+  subreddits:
+  - Ethereum
+  - ethtrader
+ICX:
+  cmc_name: icon
+  subreddits:
+  - helloicon
+LSK:
+  cmc_name: lisk
+  subreddits:
+  - lisk
+LTC:
+  cmc_name: Litecoin
+  subreddits:
+  - Litecoin
+  - ltc
+MIOTA:
+  cmc_name: Iota
+  subreddits:
+  - Iota
+NANO:
+  cmc_name: nano
+  subreddits:
+  - nanocurrency
+  - nanotrade
+  - raiblocks
+  - raitrade
+NEO:
+  cmc_name: NEO
+  subreddits:
+  - NEO
+OMG:
+  cmc_name: omisego
+  subreddits:
+  - omise_go
+ONT:
+  cmc_name: ontologynetwork
+  subreddits:
+  - ontology
+PPT:
+  cmc_name: populous
+  subreddits:
+  - populous_platform
+QTUM:
+  cmc_name: qtum
+  subreddits:
+  - qtum
+TRX:
+  cmc_name: tron
+  subreddits:
+  - tron
+VEN:
+  cmc_name: vechain
+  subreddits:
+  - vechain
+XEM:
+  cmc_name: nem
+  subreddits:
+  - nem
+XLM:
+  cmc_name: Stellar
+  subreddits:
+  - Stellar
+XMR:
+  cmc_name: Monero
+  subreddits:
+  - Monero
+XRP:
+  cmc_name: Ripple
+  subreddits:
+  - Ripple
+XVG:
+  cmc_name: vergecurrency
+  subreddits:
+  - verge
+ZEC:
+  cmc_name: zcash
+  subreddits:
+  - zec
+XTZ:
+  cmc_name: tezos
+  subreddits:
+  - tezos
+DOGE:
+  cmc_name: doge
+  subreddits:
+  - dogecoin
+BCN:
+  cmc_name: bytecoin-bcn
+  subreddits:
+  - bytecoinbcn
+ZRX:
+  cmc_name: 0x
+  subreddits:
+  - 0xProject
+BTS:
+  cmc_name: bitshares
+  subreddits:
+  - bitshares
+MKR:
+  cmc_name: maker
+  subreddits:
+  - makerdao
